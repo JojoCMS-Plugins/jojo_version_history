@@ -1,0 +1,12 @@
+div.revisiondiff {
+    line-height: 11px;
+    padding-left: 15px;
+}
+
+div.revisiondiff ins {
+    color: green;
+}
+
+div.revisiondiff del {
+    color: red;
+}
