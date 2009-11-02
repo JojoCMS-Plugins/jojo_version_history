@@ -1,3 +1,1 @@
 Add Version History and change logs to content.
-
-This plugin requires the dwoo template engine to be enabled.
